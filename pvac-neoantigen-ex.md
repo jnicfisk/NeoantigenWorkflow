@@ -24,7 +24,7 @@ You do need the IEDB prediction tools, so don't forget those. The other MHC tool
 
 Or you can use the docker image at griffithlab/pvactools, which comes with them all ready to do. I've done it both ways, works fine either way. I tend to use the docker image, though!
 
-`signularity pull griffithlab/pvactools`
+`signularity pull docker://griffithlab/pvactools`
 
 
 ## Load VEP; install plugins
